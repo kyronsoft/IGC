@@ -1578,7 +1578,7 @@ body {
     cursor: pointer;
 }
 .menu-bar span {
-    color: #000;
+    color: #fff;
     font-size: 24px;
 }
 .main-menubar {
@@ -1745,8 +1745,8 @@ nav a:hover {
     bottom: 0;
 }
 .default-header {
-    background-color: #fff;
-    padding: 20px 0;
+    background-color: #002458;
+    /* padding: 20px 0; */
     width: 100% !important;
     box-shadow: -21.213px 21.213px 30px 0px rgba(158, 158, 158, 0.3);
 }
@@ -2217,7 +2217,7 @@ nav a:hover {
 }
 
 .img_logo {
-    max-width: 50%;
+    max-width: 35%;
     height: auto;
 }
 
